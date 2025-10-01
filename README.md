@@ -10,10 +10,10 @@
   
 <p align="left" style="max-width: 600px">
 
-🔭 I'm working on: school projects, a Wynncraft trading platform & my Discord bot  
-🌱 Currently learning: Lua, Laravel & just messing around with whatever looks cool  
+🔭 I'm working on my Discord bot
+🌱 Currently learning: just messing around with whatever looks cool  
 💬 Ask me about: front-end design, UI/UX
-🤝 I love working with people from other fields — devs, designers, artists, anyone  
+🤝 I love working with people from other fields devs, designers, artists, anyone  
 🎸 Also: I play bass, love listening to music & gaming with friends  
 
 </p>
